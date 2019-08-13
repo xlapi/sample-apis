@@ -7,12 +7,12 @@
         }
     ],
     "info": {
-        "description": "This is a sample API woop woop",
+        "description": "This is a sample API with Stock information",
         "version": "1.0.0",
         "title": "Finance Api",
         "termsOfService": "",
         "contact": {
-            "email": ""
+            "email": "stocks@xlapi.app"
         }
     },
     "tags": [
